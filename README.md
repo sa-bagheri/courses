@@ -1,2 +1,2 @@
-# courses
-syllabus of computer courses 
+# Courses
+Syllabus of computer courses 
