@@ -1,2 +1,2 @@
 # courses
-syllabus of computer courses in Imam Javad university college
+syllabus of computer courses 
