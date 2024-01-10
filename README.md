@@ -5,3 +5,5 @@ Syllabus of computer courses
 #### این یک متن دو زبانه bidi‌ است
 ### در همین جا نیز از طریق github قابل ویرایش است
 
+# The End
+
